@@ -32,7 +32,7 @@ http-server AccountingNotebook
 
 ## How to run BackEnd (AccountingNotebookAPI)
 
-- Install [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0) I recommend installing the SDK but the runtime will also let you run the app.
+- Install [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0). I recommend installing the SDK but the runtime will also let you run the app.
 
 - Inside the "dist" directory(in the terminal), enter the "AccoutingNotebookAPI" directory and run:
 ```

@@ -7,11 +7,11 @@
 # Instructions
 
 - After extracting the zip file you should have the following directory structure:
-
+```
 src/ -> source code of both the bakend and frontend applications
 dist/ -> prod builds for both the backend and the frontend
 readme.md -> this file
-
+```
 ## How to run FrontEnd (AccountingNotebook)
 
 - Install [node.js](https://nodejs.org/en/)

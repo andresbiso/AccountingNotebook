@@ -1,5 +1,5 @@
 # General
-- Exercise: https://agileengine.gitlab.io/interview/test-tasks/fsNDJmGOAwqCpzZx/
+- [Exercise](https://agileengine.gitlab.io/interview/test-tasks/fsNDJmGOAwqCpzZx/)
 - Stack:
 	- Front: Angular 11
 	- Back: .NET 5

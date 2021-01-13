@@ -65,7 +65,7 @@ dotnet AccountingNotebookAPI.dll
 - By clicking the "+", at the end of each element of the list, it will display the whole transaction in detail.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [**Angular 11**](https://angular.io/)
+- [**Angular 11**](https://angular.io/guide/setup-local)
 - [**.NET 5**](https://dotnet.microsoft.com/download/dotnet/5.0)
 
 ## ✍️ Authors <a name = "authors"></a>

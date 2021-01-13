@@ -19,7 +19,7 @@ Any transaction, which leads to negative amount within the system, should be ref
 Application must store transactions history. Use in-memory storage. Pay attention that several transactions can be sent at the same time. The storage should be able to handle several transactions at the same time with concurrent access, where read transactions should not lock the storage and write transactions should lock both read and write operations.
 It is necessary to design REST API by your vision in the scope of this task.
 In general, the service will be used programmatically via its RESTful API. For testing purposes Postman or any similar app can be used.
-It should be possible to launch project/projects by a single-line-command. Please provide README.md
+It should be possible to launch project/projects by a single-line-command. Please provide README.md.
 Target completion time is 3 hours.
 
 ## UX/UI requirements

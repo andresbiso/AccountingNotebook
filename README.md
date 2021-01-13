@@ -1,13 +1,16 @@
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=400px height=200px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0fsUAcKNJtiOgb3go_PGc6H_Pxv18u9v3A&usqp=CAU" alt="Project logo"></a>
+</p>
+
+<h3 align="center">Angular 11 and .NET 5 exercise</h3>
 
 <div align="center">
-  <p align="center">
-    Angular 11 and .net 5 exercise
-    <br> 
-  </p>
 
   [![License](https://img.shields.io/github/license/andresbiso/AccountingNotebook)](/LICENSE)
 
 </div>
+
 
 ## 📝 Table of Contents
 - [About](#about)
